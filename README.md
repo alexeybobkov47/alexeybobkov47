@@ -1,5 +1,7 @@
 🌱 I’m currently learning golang
 
+Всем привет. Меня зовут Алексей и я изучаю(стараюсь)) Golang и в ближайшем будующем хочу найти работу golang разработчика =)
+
 <!--
 **alexeybobkov47/alexeybobkov47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
